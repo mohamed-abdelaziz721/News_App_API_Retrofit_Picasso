@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="margin_large">15dp</dimen>
+    <dimen name="corners_radius_medium">8dp</dimen>
+    <dimen name="category_cv_width">130dp</dimen>
+    <dimen name="category_cv_height">70dp</dimen>
+    <dimen name="padding_small">3dp</dimen>
+    <dimen name="margin_medium">8dp</dimen>
+    <dimen name="corners_radius_small">4dp</dimen>
+    <dimen name="textSize_heading">18sp</dimen>
+    <dimen name="textSize_subHeading">15sp</dimen>
+    <dimen name="detaildView_heading_size">28sp</dimen>
+    <dimen name="etaildView_subHeading_size">18sp</dimen>
+</resources>
